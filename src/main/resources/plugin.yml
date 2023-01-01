@@ -1,0 +1,4 @@
+name: Minecraft3
+version: '${version}'
+main: knd.minecraft3.Minecraft3
+api-version: 1.14
